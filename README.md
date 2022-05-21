@@ -11,12 +11,12 @@
 
 ### Projeto
 <h2 align="center">
-  Clique no Gif para vizualizar o Projeto.
+ Clique no <a href="https://jonh-dev.github.io/projeto-danki001/" target="_blank">AQUI</a> para vizualizar o Projeto.
 </h2>
 
 <h1 align="center">
   
-  <a href="https://jonh-dev.github.io/projeto-danki001/" target="_blank"><img src="./github/Projeto 01.gif" target="_blank"></a>
+  <img src="./github/Projeto 01.gif" target="_blank">
  
 </h1>
 
