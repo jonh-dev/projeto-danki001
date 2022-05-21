@@ -16,7 +16,7 @@
 
 <h1 align="center">
   
-  <a href="https://jonh-dev.github.io/projeto-danki001/" target="_blank"><img alt= "Projeto 01" title="Projeto 01" src="./github/Projeto 01.gif" width="100%"/></a>
+  <a href="https://jonh-dev.github.io/projeto-danki001/"><img alt= "Projeto 01" title="Projeto 01" src="./github/Projeto 01.gif" width="100%"/></a>
 
 </h1>
 
