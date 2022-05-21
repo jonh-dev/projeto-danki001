@@ -11,7 +11,7 @@
 
 ### Projeto
 <h2 align="center">
- Clique no <a href="https://jonh-dev.github.io/projeto-danki001/" target="_blank">AQUI</a> para vizualizar o Projeto.
+ Clique <a href="https://jonh-dev.github.io/projeto-danki001/" target="_blank">AQUI</a> para vizualizar o Projeto.
 </h2>
 
 <h1 align="center">
