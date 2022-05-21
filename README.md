@@ -36,5 +36,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Made with 💜 by Jonh Dev 👋
 
-![LinkedIn Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/jo%C3%A3o-carlos-schwab-zanardi-752591213/)
-![YouTube Badge](https://img.shields.io/badge/-YOUTUBE-EF1A19?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCV3Nucywtqi6iSM5PsX9SQA)
+[![LinkedIn Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/jo%C3%A3o-carlos-schwab-zanardi-752591213/)](https://www.linkedin.com/in/jo%C3%A3o-carlos-schwab-zanardi-752591213/)
+[![YouTube Badge](https://img.shields.io/badge/-YOUTUBE-EF1A19?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCV3Nucywtqi6iSM5PsX9SQA)](https://www.youtube.com/channel/UCV3Nucywtqi6iSM5PsX9SQA)
